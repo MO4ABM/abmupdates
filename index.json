@@ -1,8 +1,8 @@
 {
     "m1": {
-        "0.1.1.2": "https://github.com/MO4ABM/lazycalc_updater/releases/download/v0.1/setup.exe",
-        "0.1.2.3": "https://github.com/MO4ABM/lazycalc_updater/releases/download/v0.1/setup.exe",
-        "0.3.0.2": "https://github.com/MO4ABM/lazycalc_updater/releases/download/v0.1/setup.exe"
+        "0.1.1.2": "https://github.com/MO4ABM/lazycalc_updater/releases/download/v0.1/setup.exe"
+        ,"0.1.2.3": "https://github.com/MO4ABM/lazycalc_updater/releases/download/v0.1/setup.exe"
+        ,"0.3.0.2": "https://github.com/MO4ABM/lazycalc_updater/releases/download/v0.1/setup.exe"
     },
     "m2": {
         "0.1": ""
